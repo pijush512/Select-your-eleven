@@ -1,0 +1,122 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/YBQ1TtjQ/Shakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "rating": 95,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "$180,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/Q7fnDqBJ/Tamim.webp",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 82,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$120,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/tTVDzbXy/mushi.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 88,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "price": "$105,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/HL0D0m2H/Fiz.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 91,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "$145,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/C5yzGBGr/Rasel.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 96,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "$200,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/ZRQYRW4r/gail.webp",
+    "player_name": "Chris Gayle",
+    "player_country": "West Indies",
+    "playing_role": "Batsman",
+    "rating": 90,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$175,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/170.png",
+    "player_name": "David Miller",
+    "player_country": "South Africa",
+    "playing_role": "Batsman",
+    "rating": 85,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$135,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/3840.png",
+    "player_name": "Sunil Narine",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 89,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$160,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/440.png",
+    "player_name": "Imran Tahir",
+    "player_country": "South Africa",
+    "playing_role": "Bowler",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "price": "$110,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "rating": 80,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$95,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/246.png",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 84,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "price": "$100,000"
+  },
+  {
+    "player_img": "https://resources.pulse.icc-cricket.com/players/284/1749.png",
+    "player_name": "Kieron Pollard",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 93,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$170,000"
+  }
+]
